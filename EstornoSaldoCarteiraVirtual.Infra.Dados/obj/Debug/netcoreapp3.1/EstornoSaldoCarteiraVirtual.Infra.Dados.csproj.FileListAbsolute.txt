@@ -1,0 +1,13 @@
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Dominio.dll
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.csprojAssemblyReference.cache
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.AssemblyInfoInputs.cache
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.AssemblyInfo.cs
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.deps.json
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.dll
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.runtimeconfig.json
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.runtimeconfig.dev.json
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.pdb
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\bin\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Dominio.pdb
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.csproj.CopyComplete
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.dll
+C:\Projetos\Estapar\Estapar.EstornoSaldoCarteiraVirtual\EstornoSaldoCarteiraVirtual.Infra.Dados\obj\Debug\netcoreapp3.1\EstornoSaldoCarteiraVirtual.Infra.Dados.pdb
